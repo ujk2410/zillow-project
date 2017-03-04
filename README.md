@@ -10,4 +10,4 @@
 
 Java Project for SQA Boot Camp Program. 
 
-[UJ Kaur](http://sqasolution.com)
+[UJ Kaur](https://github.com)
