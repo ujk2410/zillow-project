@@ -5,14 +5,15 @@
 	<artifactId>basic-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<dependencies>
+	<dependencies> 
+
 		<!-- mySQL Driver -->
 
-		<dependency>
+		 <dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.38</version>
-		</dependency>
+		</dependency> 
 
 		<!-- Selenium 2.0 -->
 		<dependency>
