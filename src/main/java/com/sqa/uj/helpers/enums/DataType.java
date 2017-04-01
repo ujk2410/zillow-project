@@ -19,5 +19,5 @@ package com.sqa.uj.helpers.enums;
  * @since 1.0
  */
 public enum DataType {
-	STRING, CHAR, DOUBLE, FLOAT, INT, BOOLEAN
+	STRING, CHAR, DOUBLE, FLOAT, INT, BOOLEAN, SHORT, LONG
 }
